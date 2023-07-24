@@ -1,4 +1,4 @@
-# practice-app
+# internship-project
 
 ## Project setup
 ```
